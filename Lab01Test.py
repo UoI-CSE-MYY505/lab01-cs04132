@@ -13,7 +13,7 @@ matricNumber = 0
 
 # Modifications/additions to the data labels of the program
 newLabels = {
-    "matric" : '.word '+ str(matricNumber)
+    "matric" : '.word '+ str(4132)
 }
 
 # The main code to run. Circumvents the initial code of the original program
